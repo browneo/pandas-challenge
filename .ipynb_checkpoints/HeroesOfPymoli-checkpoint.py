@@ -3226,8 +3226,10 @@
    ]
   },
   {
-   "cell_type": "markdown",
+   "cell_type": "code",
+   "execution_count": null,
    "metadata": {},
+   "outputs": [],
    "source": [
     "Pymoli Analysis\n",
     "\n",
